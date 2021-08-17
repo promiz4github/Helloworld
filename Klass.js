@@ -4,3 +4,4 @@
  let us = [{ name: 'Promise' , name: 'ayo', name: 'hammed', name: 'femi'}
   ].filter(klass)
 console.log(us)
+module.exports= klass

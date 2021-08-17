@@ -1,4 +1,4 @@
 
-// const addNum = require('./add')
+const oneKlass = require('./klass')
 console.log("hello how are you")
-// console.log(addNum(2,4))
+console.log(oneKlass)
